@@ -1,0 +1,19 @@
+.loading {
+    float: left;
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 15px;
+    height: 30px;
+}
+.loading img {
+    width: 30px;
+}
+.data-list {
+    float: left;
+}
+#current{
+    width: 50%;
+	float:left;
+	margin-top: 24px;
+	color: #777;
+}
